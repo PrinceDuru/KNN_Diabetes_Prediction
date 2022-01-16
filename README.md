@@ -10,8 +10,7 @@ Some statistical analyses were also done to confirm the distribution of the data
 A snapshot of the analysis dashboard is shown below:
 
 <p><img src="https://github.com/PrinceDuru/KNN_Diabetes_Prediction/blob/master/Dashboard.JPG" /></p>
-<br>
-<br>
+
 <p><img src="https://github.com/PrinceDuru/KNN_Diabetes_Prediction/blob/master/screenshot2.JPG /></p>
 
 #### Data Preprocessing & Feature Engineering
