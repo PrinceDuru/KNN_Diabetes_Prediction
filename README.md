@@ -7,11 +7,7 @@ The dataset used is from NIDDK (National Institute of Diabetes and Digestive and
 #### Exploratory Data Analysis
 Tableau was used to analyze the dataset to get some insights.
 Some statistical analyses were also done to confirm the distribution of the data, to check for outliers and to check correlations among the variables.
-A snapshot of the analysis dashboard is shown below:
 
-<p><img src="https://github.com/PrinceDuru/KNN_Diabetes_Prediction/blob/master/Dashboard.JPG" /></p>
-
-<p><img src="https://github.com/PrinceDuru/KNN_Diabetes_Prediction/blob/master/screenshot2.JPG /></p>
 
 #### Data Preprocessing & Feature Engineering
 Some key features and variables had null values where were treated with different methods, including filling the null values with the mean/mode of the distribution as appropriate.
