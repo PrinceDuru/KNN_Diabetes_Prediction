@@ -57,5 +57,11 @@ Clone the project
   git clone https://github.com/PrinceDuru/KNN_Diabetes_Prediction
 ```
 
+## Screenshots
+A snapshot of the analysis dashboard is shown below:
+
+![Analysis_Dashboard](https://github.com/PrinceDuru/KNN_Diabetes_Prediction/blob/master/Dashboard.JPG)
+  
+![screenshots](https://github.com/PrinceDuru/KNN_Diabetes_Prediction/blob/master/screenshot2.JPG)
 
 
