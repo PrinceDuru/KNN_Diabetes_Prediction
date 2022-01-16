@@ -45,13 +45,6 @@ The trained KNN model was deploy on Heroku platform using Flask as the web frame
 <p><img src="https://github.com/PrinceDuru/KNN_Diabetes_Prediction/blob/master/Demo.gif" /></p>
 
 
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/PrinceDuru/KNN_Diabetes_Prediction
-```
 
 ## Screenshots
 A snapshot of the analysis dashboard is shown below:
@@ -59,5 +52,14 @@ A snapshot of the analysis dashboard is shown below:
 ![Analysis_Dashboard](https://github.com/PrinceDuru/KNN_Diabetes_Prediction/blob/master/Dashboard.JPG)
   
 ![screenshots](https://github.com/PrinceDuru/KNN_Diabetes_Prediction/blob/master/screenshot2.JPG)
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/PrinceDuru/KNN_Diabetes_Prediction
+```
 
 
