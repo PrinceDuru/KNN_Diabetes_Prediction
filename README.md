@@ -42,7 +42,7 @@ The trained KNN model was deploy on Heroku platform using Flask as the web frame
 
 
 ## Demo
-Link to Heroku hosted site... https://knn-diabetes-prediction.herokuapp.com/
+## Link to Heroku hosted site... https://knn-diabetes-prediction.herokuapp.com/
 
 <p><img src="https://github.com/PrinceDuru/KNN_Diabetes_Prediction/blob/master/Demo.gif" /></p>
 
