@@ -23,7 +23,7 @@ Performances of the various models were evaluated.
 KNN model gave the best performance with 76% accuracy and a AUC score of 83%.
 
 #### Model Deployment
-The trained KNN model was deploy on Heroku platform using Flask as the web framework to serve the web page to allow input of test data, and for the model to display predicted result.
+The trained KNN model was deployed on Heroku platform using Flask as the web framework to serve the web page to allow input of test data, and for the model to display predicted result.
 
 #### Improvements
 * Model performance can be enhanced using more training data.
